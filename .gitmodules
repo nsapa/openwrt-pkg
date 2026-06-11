@@ -1,3 +1,6 @@
 [submodule "packages/utils/fastfetch"]
 	path = packages/utils/fastfetch
 	url = https://github.com/muink/openwrt-fastfetch
+[submodule "luci/themes/luci-theme-aurora"]
+	path = luci/themes/luci-theme-aurora
+	url = https://github.com/eamonxg/luci-theme-aurora
