@@ -1,0 +1,3 @@
+[submodule "packages/utils/fastfetch"]
+	path = packages/utils/fastfetch
+	url = https://github.com/muink/openwrt-fastfetch
