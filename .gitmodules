@@ -8,3 +8,6 @@
 	path = luci/themes/luci-theme-design
 	url = https://github.com/MomoFlora/luci-theme-design
 	branch = openwrt-25.12
+[submodule "luci/app/luci-app-usbip-server"]
+	path = luci/app/luci-app-usbip-server
+	url = https://github.com/xRetia/luci-app-usbip-server.git
