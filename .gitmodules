@@ -7,3 +7,6 @@
 [submodule "luci/app/luci-app-usbip-server"]
 	path = luci/app/luci-app-usbip-server
 	url = https://github.com/xRetia/luci-app-usbip-server.git
+[submodule "luci/themes/luci-theme-glass"]
+	path = luci/themes/luci-theme-glass
+	url = https://github.com/rchen14b/luci-theme-glass.git
