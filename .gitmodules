@@ -10,3 +10,6 @@
 [submodule "luci/themes/luci-theme-glass"]
 	path = luci/themes/luci-theme-glass
 	url = https://github.com/rchen14b/luci-theme-glass.git
+[submodule "luci/themes/uniwrt-luci"]
+	path = luci/themes/uniwrt-luci
+	url = https://github.com/ox1d3x3/uniwrt-luci.git
