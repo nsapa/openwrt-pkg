@@ -13,3 +13,6 @@
 [submodule "luci/themes/uniwrt-luci"]
 	path = luci/themes/uniwrt-luci
 	url = https://github.com/ox1d3x3/uniwrt-luci.git
+[submodule "luci/app/luci-app-cpu-status"]
+	path = luci/app/luci-app-cpu-status
+	url = https://github.com/gSpotx2f/luci-app-cpu-status.git
